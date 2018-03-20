@@ -1,0 +1,110 @@
+==========
+The following items may be specified in actual or symbolic form in the operands of those instructions which refer to the particular items : channel , unit , combined channel and unit , combined arm and file , unit record synchronizers , inquiry synchronizers , and alteration switches . 
+The declarative operation EQU is used to equate symbolic names to item numbers ( see page 85 ) . 
+Continuation cards Certain Autocoder statements make provision for more parameters than may be contained in the operand ( columns 21 - 75 ) of a single line on the Autocoder coding sheet . 
+When this is the case , the appropriate section of this manual will indicate that `` Continuation Cards '' may be used . 
+Thus , when specifically permitted , the operand of a given line on the Autocoder coding sheet may be continued in the operand of from one to four additional lines which immediately follow . 
+The label and operation columns must be blank and the continuation of the operand must begin in column 21 ; ; i.e. , it must be left-justified in the operand column of the coding sheet . 
+The operand need not extend across the entire operand column of either the header card or continuation cards but may end with the comma following any parameter . 
+Remarks may appear to the right of the last parameter on each card provided they are separated from the operand by at least two blank spaces . 
+Illustrations of the use of continuation cards are included throughout the examples illustrating the various statements . 
+If a continuation card follows a statement that does not permit continuation cards , the compiler will generate a NOP and issue an error message . 
+==========
+Old , tired , trembling the woman came to the cannery . 
+She had , she said , heard that the plant was closing . 
+It could n't close , she said . 
+She had raised a calf , grown it beef-fat . 
+She had , with her own work-weary hands , put seeds in the ground , watched them sprout , bud , blossom , and get ready to bear . 
+She was ready to kill the beef , dress it out , and with vegetables from her garden was going to can soup , broth , hash , and stew against the winter . 
+She had done it last year , and the year before , and the year before that , and she , and her people were dependent upon these cans for food . 
+This did not happen in counties of North Georgia , where the rivers run and make rich the bottom land . 
+Nor in South Georgia , where the summer sun shines warmly and gives early life to the things growing in the flat fields . 
+This happened in Decatur , DeKalb County , not 10 miles from the heart of metropolitian Atlanta . 
+==========
+toll-road bonds are finding improvements in monthly reports on operation of the turnpikes . 
+Long-term trend of traffic on these roads seems clearly upward . 
+Higher toll rates also are helping boost revenues . 
+Result is a better prospect for a full payoff by bonds that once were regarded as highly speculative . 
+Things are looking up these days for many of the State turnpikes on which investors depend for income from their toll-road bonds . 
+Traffic on nearly all the turnpikes has been growing . 
+That added traffic means rising streams of dimes and quarters at toll gates . 
+As a result of the new outlook for turnpikes , investors who bought toll-road bonds when these securities ranked as outright speculations are now finding new hope for their investments . 
+Another result is that buyers are tending to bid up the prices of these tax-exempt bonds . 
+Other tax-exempt bonds of State and local governments hit a price peak on February 21 , according to Standard & Poor 's average . 
+==========
+Ireland 's County Limerick , near the River Shannon , there is a quiet little suburb by the name of Garryowen , which means `` Garden of Owen '' . 
+Undoubtedly none of the residents realize the influence their town has had on American military history , or the deeds of valor that have been done in its name . 
+The cry `` Garryowen '' ! ! 
+Bursting from the lips of a charging cavalry trooper was the last sound heard on this earth by untold numbers of Cheyennes , Sioux and Apaches , Mexican banditos under Pancho Villa , Japanese in the South Pacific , and Chinese and North Korean Communists in Korea . 
+Garryowen is the battle cry of the 7th U.S. Cavalry Regiment , `` The Fighting Seventh '' . 
+Today a battle cry may seem an anachronism , for in the modern Army , esprit de corps has been sacrificed to organizational charts and tables . 
+But do n't tell that to a veteran of the Fighting Seventh , especially in a saloon on Saturday night . 
+Of all the thousands of men who have served in the 7th Cav , perhaps no one knows its spirit better than Lieutenant Colonel Melbourne C. Chandler . 
+Wiry and burr-headed , with steel blue eyes and a chest splattered with medals , Chandler is the epitome of the old-time trooper . 
+==========
+the original cause of the quarrel , Philip 's seizure of Gascony , was only one strand in the spider web of French interests that overlay all western Europe and that had been so well and closely spun that the lightest movement could set it trembling from one end to the other . 
+Even so , Edward 's ambassadors can scarcely have foreseen that five years of unremitting work lay ahead of them before peace was finally made and that when it did come the countless embassies that left England for Rome during that period had very little to do with it . 
+It is hard not to lay most of the blame for their failures on the pope . 
+Nogaret is hardly an impartial witness , and even he did not make his charges against Boniface until the latter was dead , but there is some truth in what he said and more in what he did not say . 
+It was not merely a hunger for `` money , gold and precious objects '' that delayed the papal pronouncement that could have brought the war to an end ; ; the pope was playing a dangerous game , with so many balls in the air at once that a misstep would bring them all about his ears , and his only hope was to temporize so that he could take advantage of every change in the delicate balance of European affairs . 
+When the negotiations began , his quarrel with the king of France was temporarily in abeyance , and he had no intention of reviving it so long as there was hope that French money would come to pay the troops who , under Charles of Valois , the papal vicar of Tuscany , were so valuable in the crusade against the Colonna cardinals and their Sicilian allies . 
+If his circumspection in regard to Philip 's sensibilities went so far that he even refused to grant a dispensation for the marriage of Amadee 's daughter , Agnes , to the son of the dauphin of Vienne -- a truly peacemaking move according to thirteenth-century ideas , for Savoy and Dauphine were as usual fighting on opposite sides -- for fear that he might seem to be favoring the anti-French coalition , he would certainly never take the far more drastic step of ordering the return of Gascony to Edward , even though , as he admitted to the English ambassadors , he had been advised that the original cession was invalid . 
+On the other hand , he did not want to offend Edward either , and he found himself in a very difficult position . 
+On the surface , the whole question was purely feudal . 
+The French were now occupying Gascony and Flanders on the technical grounds that their rulers had forfeited them by a breach of the feudal contract . 
+==========
+Scientists say that the world and everything in it are based on mathematics . 
+Without math the men who are continually seeking the causes of and the reasons for the many things that make the world go 'round would not have any means of analyzing , standardizing , and communicating the things they discover and learn . 
+Math and the formulas that allow it to be applied to different problems are , therefore , essential to any scientific endeavor . 
+Hot rodding is a science . 
+It 's not a science as involved as determining what makes the earth rotate on its axis or building a rocket or putting a satellite into orbit but it is , nevertheless , a science . 
+But because science is based on mathematics does n't mean that a hot rodder must necessarily be a mathematician . 
+A guy can be an active and successful hot rodder for years without becoming even remotely involved with mathematical problems ; ; however , he will have a clearer understanding of what he is doing and the chances are he will be more successful if he understands the few formulas that apply to rodding . 
+A mathematical formula is nothing more than a pattern for solving a specific problem . 
+It places the various factors involved in the problem in their correct order in relation to each other so that the influence of factors on each other can be computed . 
+==========
+the three main categories of antisubmarine warfare operations are defense of shipping , defense of naval forces , and area defense . 
+The last category overlaps the others in amphibious operations and near terminals and bases . 
+To effect these operations , five elements exist ( 1 ) surface , ( 2 ) air , ( 3 ) mines , ( 4 ) submarine , and ( 5 ) fixed installations . 
+Surface forces have been used to provide defense zones around naval and merchant ship formations , air to furnish area surveillance , and mines for protection of limited areas . 
+Submarines and shore installations are new elements . 
+The submarine now has a definite place in submarine defense particularly in denying enemy access to ocean areas . 
+Fixed installations offer possibilities for area detection . 
+Mine warfare is being reoriented against submarine targets . 
+A sixth element , not always considered , is intelligence . 
+It includes operational intelligence of the enemy and knowledge of the environment . 
+Operational intelligence presumably will be available from our national intelligence agencies ; ; intelligence on the environment will come from the recently augmented program in oceanography . 
+==========
+There are , so my biologist friends tell me , mechanisms of adaptation and defense that are just too complete and too satisfactory . 
+Mollusks are a case in point . 
+The shell , which served the strain so well at a relatively early stage in the evolutionary scheme , tended to cancel out the possibility of future development . 
+Though this may or may not be good biology , it does aptly illustrate the strength and the weakness of American Catholic higher education . 
+There can be no doubt that the American Catholic accomplishment in the field of higher education is most impressive : our European brethren never cease to marvel at the number and the size of our colleges and universities . 
+The deeper wonder is how this miracle was accomplished in decades , rather than in centuries and by immigrant minorities at that . 
+By way of explanation we ourselves are prone to imagine that this achievement stems from the same American Catholic zeal and generosity which brought the parochial school system into existence . 
+There is , however , one curious discrepancy in this broad and flattering picture . 
+Viewing the American Catholic educational achievement in retrospect , we may indeed see it as a unified whole extending from grade school to university . 
+But the simple truth is that higher education has never really been an official American Catholic project ; ; certainly not in the same sense that the establishment of a parochial school system has been a matter of official policy . 
+==========
+Mando , pleading her cause , must have said that Dr. Brown was the most distinguished physician in the United States of America , for our man poured out his symptoms and drew a madly waving line indicating the irregularity of his pulse . 
+`` He 's got high blood pressure , too , and bum kidneys '' , the doctor said to me . 
+`` Transparent look , waxy skin -- could well be uremia '' . 
+He looked disapprovingly at an ash tray piled high with cigarette stubs , shook his head , and moved his hand back and forth in a strong negative gesture . 
+The little official hung his head in shame . 
+Seeing this , his colleague at the next desk gave a short , contemptuous laugh , pushed forward his own ash tray , innocent of a single butt , thumped his chest to show his excellent condition , and looked proud . 
+The doctor gravely nodded approval . 
+At this moment Mando came hurrying up to announce that the problem was solved and all Norton had to do was to sign a sheaf of papers . 
+We went out of the office and down the hall to a window where documents and more officials awaited us , the rest of the office personnel hot upon our heels . 
+==========
+Mickie sat over his second whisky-on-the-rocks in a little bar next to the funeral parlor on Pennsylvania Avenue . 
+Al 's Little Cafe was small , dark , narrow , and filled with the mingled scent of beer , tobacco smoke , and Italian cooking . 
+Hanging over the bar was an oil painting of a nude Al had accepted from a student at the Corcoran Gallery who needed to eat and drink and was broke . 
+The nude was small and black-haired and elfin , and was called `` Eloise '' . 
+This was one place where Moonan could go for a drink in a back booth without anyone noticing him , or at least coming up and hanging around and wanting to know all the low-down . 
+The other patrons were taxi drivers and art students and small shopkeepers . 
+The reporters had not yet discovered that this was his hideaway . 
+His friend Jane was with him . 
+She was wise enough to realize a man could be good company even if he did weigh too much and did n't own the mint . 
+She was the widow of a writer who had died in an airplane crash , and Mickie had found her a job as head of the historical section of the Treasury * . 
+This meant sorting out press clippings and the like . 
+==========

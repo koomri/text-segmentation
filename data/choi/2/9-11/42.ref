@@ -1,0 +1,109 @@
+==========
+6.4 . 
+The primary decomposition theorem We are trying to study a linear operator T on the finite-dimensional space V , by decomposing T into a direct sum of operators which are in some sense elementary . 
+We can do this through the characteristic values and vectors of T in certain special cases , i.e. , when the minimal polynomial for T factors over the scalar field F into a product of distinct monic polynomials of degree 1 . 
+What can we do with the general T ? ? 
+If we try to study T using characteristic values , we are confronted with two problems . 
+First , T may not have a single characteristic value ; ; this is really a deficiency in the scalar field , namely , that it is not algebraically closed . 
+==========
+Rookie Ron Nischwitz continued his pinpoint pitching Monday night as the Bears made it two straight over Indianapolis , 5-3 . 
+The husky 6-3 , 205-pound lefthander , was in command all the way before an on-the-scene audience of only 949 and countless of television viewers in the Denver area . 
+It was Nischwitz ' third straight victory of the new season and ran the Grizzlies ' winning streak to four straight . 
+They now lead Louisville by a full game on top of the American Association pack . 
+Nischwitz fanned six and walked only Charley Hinton in the third inning . 
+He has given only the one pass in his 27 innings , an unusual characteristic for a southpaw . 
+The Bears took the lead in the first inning , as they did in Sunday 's opener , and never lagged . 
+Dick McAuliffe cracked the first of his two doubles against Lefty Don Rudolph to open the Bear 's attack . 
+After Al Paschal gruonded out , Jay Cooke walked and Jim McDaniel singled home McAuliffe . 
+Alusik then moved Cooke across with a line drive to left . 
+Jay Porter drew a base on balls to fill the bases but Don Wert 's smash was knocked down by Rudolph for the putout . 
+==========
+The following items may be specified in actual or symbolic form in the operands of those instructions which refer to the particular items : channel , unit , combined channel and unit , combined arm and file , unit record synchronizers , inquiry synchronizers , and alteration switches . 
+The declarative operation EQU is used to equate symbolic names to item numbers ( see page 85 ) . 
+Continuation cards Certain Autocoder statements make provision for more parameters than may be contained in the operand ( columns 21 - 75 ) of a single line on the Autocoder coding sheet . 
+When this is the case , the appropriate section of this manual will indicate that `` Continuation Cards '' may be used . 
+Thus , when specifically permitted , the operand of a given line on the Autocoder coding sheet may be continued in the operand of from one to four additional lines which immediately follow . 
+The label and operation columns must be blank and the continuation of the operand must begin in column 21 ; ; i.e. , it must be left-justified in the operand column of the coding sheet . 
+The operand need not extend across the entire operand column of either the header card or continuation cards but may end with the comma following any parameter . 
+Remarks may appear to the right of the last parameter on each card provided they are separated from the operand by at least two blank spaces . 
+Illustrations of the use of continuation cards are included throughout the examples illustrating the various statements . 
+==========
+the hottest thing that has hit the Dallas investment community in years was the Morton Foods stock issue , which was sold to the public during the past week . 
+For many reasons , the demand to buy shares in the Dallas-headquartered company was tremendous . 
+It was not a case of the investment bankers having to sell the stock ; ; it was more one of allotting a few shares to a number of customers and explaining to others why they had no more to sell . 
+Investors who wanted 100 shares in many cases ended up with 25 , and customers who had put in a bid to buy 400 shares found themselves with 100 and counted themselves lucky to get that many . 
+In fact , very few customers , anywhere in the nation , were able to get more than 100 shares . 
+Some Dallas investment firms got only 100 shares , for all of their customers . 
+A measure of how hot the stock was , can be found in what happened to it on the market as soon as trading began . 
+The stock was sold in the underwriting at a price of $ 12.50 a share . 
+The first over-the-counter trade Wednesday afternoon at Eppler , Guerin & Turner , the managing underwriter , was at $ 17 a share . 
+And from that the stock moved right on up until it was trading Thursday morning at around $ 22 a share . 
+But the Morton Foods issue was hot long before it was on the market . 
+==========
+7-1 . 
+Examples of binomial experiments Some experiments are composed of repetitions of independent trials , each with two possible outcomes . 
+The binomial probability distribution may describe the variation that occurs from one set of trials of such a binomial experiment to another . 
+We devote a chapter to the binomial distribution not only because it is a mathematical model for an enormous variety of real life phenomena , but also because it has important properties that recur in many other probability models . 
+We begin with a few examples of binomial experiments . 
+Marksmanship example . 
+A trained marksman shooting five rounds at a target , all under practically the same conditions , may hit the bull's-eye from 0 to 5 times . 
+In repeated sets of five shots his numbers of bull's-eyes vary . 
+What can we say of the probabilities of the different possible numbers of bull's-eyes ? ? 
+Inheritance in mice . 
+==========
+The set of all decisions is called the operating policy or , more simply , the policy . 
+An optimal policy is one which in some sense gets the best out of the process as a whole by maximizing the value of the product . 
+There are thus three components to an optimal design problem : ( 1 ) The specification of the state of the process stream ; ; ( 2 ) The specification of the operating variables and the transformation they effect ; ; ( 3 ) The specification of the objective function of which the optimization is desired . 
+For a chemical process the first of these might involve the concentrations of the different chemical species , and the temperature or pressure of the stream . 
+For the second we might have to choose the volume of reactor or amount of cooling to be supplied ; ; the way in which the transformation of state depends on the operating variables for the main types of reactors is discussed in the next chapter . 
+The objective function is some measure of the increase in value of the stream by processing ; ; it is the subject of Chapter 4 . 
+The essential characteristic of an optimal policy when the state of the stream is transformed in a sequence of stages with no feedback was first isolated by Bellman . 
+He recognized that whatever transformation may be effected in the first stage of an R-stage process , the remaining stages must use an optimal Af-stage policy with respect to the state resulting from the first stage , if there is to be any chance of optimizing the complete process . 
+Moreover , by systematically varying the operating conditions in the first stage and always using the optimal Af-stage policy for the remaining stages , we shall eventually find the optimal policy for all R stages . 
+Proceeding in this way , from one to two and from two to three stages , we may gradually build up the policy for any number . 
+At each step of the calculation the operating variables of only one stage need be varied . 
+==========
+the eye is puzzled ; ; instead of seeing objects in space , it sees nothing more than -- a picture . 
+Through 1911 and 1912 , as the Cubist facet-plane 's tendency to adhere to the literal surface became harder and harder to deny , the task of keeping the surface at arm 's length fell all the more to eye-undeceiving contrivances . 
+To reinforce , and sometimes to replace , the simulated typography , Braque and Picasso began to mix sand and other foreign substances with their paint ; ; the granular texture thus created likewise called attention to the reality of the surface and was effective over much larger areas . 
+In certain other pictures , however , Braque began to paint areas in exact simulation of wood graining or marbleizing . 
+These areas , by virtue of their abrupt density of pattern , stated the literal surface with such new and superior force that the resulting contrast drove the simulated printing into a depth from which it could be rescued -- and set to shuttling again -- only by conventional perspective ; ; that is , by being placed in such relation to the forms depicted within the illusion that these forms left no room for the typography except near the surface . 
+The accumulation of such devices , however , soon had the effect of telescoping , even while separating , surface and depth . 
+The process of flattening seemed inexorable , and it became necessary to emphasize the surface still further in order to prevent it from fusing with the illusion . 
+It was for this reason , and no other that I can see , that in September 1912 , Braque took the radical and revolutionary step of pasting actual pieces of imitation-woodgrain wallpaper to a drawing on paper , instead of trying to simulate its texture in paint . 
+Picasso says that he himself had already made his first collage toward the end of 1911 , when he glued a piece of imitation-caning oilcloth to a painting on canvas . 
+It is true that his first collage looks more Analytical than Braque 's , which would confirm the date he assigns it . 
+==========
+the outlook for interest rates in 1961 , the question , as always , is the prospect for general business activity . 
+By and large , what happens to business as a whole will govern the relationship between demand and supply conditions in the capital markets and will thus determine interest rates . 
+Moreover , the trend of general business activity in 1961 will exert a decisive influence on fiscal , monetary , and other Federal policies which affect interest rates . 
+Nineteen-sixty has been a baffling year for analysts of general business activity . 
+During much of the year the general level of business activity has moved along on a record-high plateau , but there have been persistent signs of slack in the economy . 
+The tendency for general business activity to soften somewhat is becoming more evident . 
+Although the pause in the advance of general business activity this year has thus far been quite modest , it is hard to escape the conclusion that the softening process will continue into the first quarter of 1961 and possibly somewhat longer . 
+It is difficult to see any powerful sources of strength on the horizon at this time which would give the economy a new upward thrust . 
+The rate of plant and equipment spending by business and industry now seems to be topping out and facing some decline . 
+In earlier business cycles , when this occurred the country usually experienced a sharp upturn in residential construction as mortgage financing became easier to obtain . 
+At this time , however , there are signs that increased availability of mortgage credit will not act with the usual speed to stimulate a sharp rise in residential construction . 
+==========
+2 : : Some of the major functions of religion The place of religion in the simple , preliterate societies is quite definite ; ; as a complex it fits into the whole social organization and functions dominantly in every part of it . 
+In societies like ours , however , its place is less clear and more complex . 
+With the diversity of religious viewpoints , there are differences of opinion as to the essential features of religion ; ; and there are different opinions as to the essential functions of religion . 
+Nevertheless , for most of the population of heterogeneous advanced societies , though less for the less religious portion , religion does perform certain modal individual and social functions . 
+Although the inner functions of religion are not of direct significance in social organization , they have important indirect consequences . 
+If the inner functions of religion are performed , the individual is a composed , ordered , motivated , and emotionally secure associate ; ; he is not greatly frustrated , and he is not anomic ; ; he is better fitted to perform his social life among his fellows . 
+There are several closely related inner functions . 
+In the last analysis , religion is the means of inducing , formulating , expressing , enhancing , implementing , and perpetuating man 's deepest experience -- the religious . 
+Man is first religious ; ; the instrumentalities follow . 
+==========
+it is reasonable to believe that there is a significant difference between the two groups in their performance on this task after a brief `` structuring '' experience . 
+It was predicted that Kohnstamm-negative subjects would adhere to more liberal , concretistic reports of what the ambiguous figure `` looked like '' as reflecting their hesitancy about taking chances . 
+This was true mostly of those Kohnstamm-negative subjects who did not perceive the ambiguous figure as people in action . 
+Responses such as `` rope with a loop in it '' , and `` two pieces of rope '' , were quite characteristic . 
+Guilford-Martin personality inventories . 
+The three personality inventories ( Guilford ; ; Guilford-Martin ; ; Guilford-Martin ) were filled out by 12 of the Kohnstamm-positive subjects and 19 of the Kohnstamm-negative subjects . 
+These were the same subjects who were given the Rorschach test . 
+Some predictions had been made concerning factors R , N , I and Co on these inventories which appeared to be directly related to control and security aspects of personality functioning which were hypothesized as being of importance in differential Kohnstamm reactivity . 
+Only Co differentiated between the two groups at less than the 5 % level ( Afj ) . 
+One prediction had been made about the difference in security or self-confidence between those subjects who shifted their Kohnstamm reactivity when informed and those who did not . 
+==========

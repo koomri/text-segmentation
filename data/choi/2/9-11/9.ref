@@ -1,0 +1,116 @@
+==========
+The many linguistic techniques for reducing the amount of dictionary information that have been proposed all organize the dictionary 's contents around prefixes , stems , suffixes , etc . 
+. 
+A significant reduction in the voume of store information is thus realized , especially for a highly inflected language such as Russian . 
+For English the reduction in size is less striking . 
+This approach requires that : ( 1 ) each text word be separated into smaller elements to establish a correspondence between the occurrence and dictionary entries , and ( 2 ) the information retrieved from several entries in the dictionary be synthesized into a description of the particular word . 
+The logical scheme used to accomplish the former influences the placement of information in the dictionary file . 
+Implementation of the latter requires storage of information needed only for synthesis . 
+We suggest the application of certain data-processing techniques as a solution to the problem . 
+But first , we must define two terms so that their meaning will be clearly understood : form -- any unique sequence of alphabetic characters that can appear in a language preceded and followed by a space ; ; occurrence -- an instance of a form in text . 
+We propose a method for selecting only dictionary information required by the text being translated and a means for passing the information directly to the occurrences in text . 
+We accomplish this by compiling a list of text forms as text is read by the computer . 
+==========
+Miami , Fla. , March 17 -- The Orioles tonight retained the distinction of being the only winless team among the eighteen Major-League clubs as they dropped their sixth straight spring exhibition decision , this one to the Kansas City Athletics by a score of 5 to 3 . 
+Indications as late as the top of the sixth were that the Birds were to end their victory draught as they coasted along with a 3-to-o advantage . 
+Siebern hits homer Over the first five frames , Jack Fisher , the big righthander who figures to be in the middle of Oriole plans for a drive on the 1961 American League pennant , held the A 's scoreless while yielding three scattered hits . 
+Then Dick Hyde , submarine-ball hurler , entered the contest and only five batters needed to face him before there existed a 3-to-3 deadlock . 
+A two-run homer by Norm Siebern and a solo blast by Bill Tuttle tied the game , and single runs in the eighth and ninth gave the Athletics their fifth victory in eight starts . 
+House throws wild With one down in the eighth , Marv Throneberry drew a walk and stole second as Hyde fanned Tuttle . 
+Catcher Frank House 's throw in an effort to nab Throneberry was wide and in the dirt . 
+Then Heywood Sullivan , Kansas City catcher , singled up the middle and Throneberry was across with what proved to be the winning run . 
+Rookie southpaw George Stepanovich relieved Hyde at the start of the ninth and gave up the A 's fifth tally on a walk to second baseman Dick Howser , a wild pitch , and Frank Cipriani 's single under Shortstop Jerry Adair 's glove into center . 
+The Orioles once again performed at the plate in powderpuff fashion , gathering only seven blows off the offerings of three Kansas City pitchers . 
+Three were doubles , Brooks Robinson getting a pair and Marv Breeding one . 
+==========
+The plant was located west of the Battenkill and south of the location of the former electric light plant . 
+The Manchester Depot Sewer Company issued 214 shares of stock at $ 10 each for construction of a sewer in that locality , and assessments were made for its maintenance . 
+It has given considerable trouble at times and empties right into the Battenkill . 
+Fire District No. 1 discussed its possible purchase in 1945 , but considered it an unwise investment . 
+The sewer on Bonnet Street was constructed when there were only a few houses on the street . 
+As new homes were built they were connected so that all residences south of School Street are served by it . 
+B.J. Connell is the present treasurer and manager . 
+The 1946 town meeting voted to have the Selectmen appoint a committee to investigate and report on the feasibility of some system of sewage disposal and a disposal plant to serve Manchester Center , Depot , and Way 's Lane . 
+The committee submitted a report signed by Louis Martin and Leon Wiley with a map published in the 1946 town report . 
+==========
+Mr. Justice Black was one of the minority that rested on the Article 1 , power . 
+In this view , supported by only three members of the Court , a power denied by the specific provisions of Article 3 , was granted by the generality of Article 1 . 
+If this seems arbitrary , its effect was to treat citizens of the District of Columbia equally with citizens of the states -- at the expense of expanding a troublesome jurisdiction . 
+Federal question jurisdiction For almost a hundred years we relied upon state courts ( subject to review by the Supreme Court ) for the protection of most rights arising under national law . 
+Then in 1875 , apparently in response to the nationalizing influence of the Civil War , Congress first gave the lower federal courts general authority -- concurrently with state tribunals -- to decide cases involving federal-right questions . 
+One purpose of the change was to attain sympathetic enforcement of rights insured by the Civil War amendments against state interference . 
+Serious difficulty arose with the advent of Substantive Due Process . 
+An amendment , presumably designed to deal with the problems of newly freed slaves , became a `` laissez-faire '' limitation upon state economic policy . 
+A flood of federal lower court injunctions seriously impeded the processes of local government . 
+Congress reacted with a series of measures modifying in various ways what it had granted in 1875 . 
+In 1910 it required the convening of a special three-judge court for the issuance of certain injunctions and allowed direct appeals to the Supreme Court . 
+==========
+it is reasonable to believe that there is a significant difference between the two groups in their performance on this task after a brief `` structuring '' experience . 
+It was predicted that Kohnstamm-negative subjects would adhere to more liberal , concretistic reports of what the ambiguous figure `` looked like '' as reflecting their hesitancy about taking chances . 
+This was true mostly of those Kohnstamm-negative subjects who did not perceive the ambiguous figure as people in action . 
+Responses such as `` rope with a loop in it '' , and `` two pieces of rope '' , were quite characteristic . 
+Guilford-Martin personality inventories . 
+The three personality inventories ( Guilford ; ; Guilford-Martin ; ; Guilford-Martin ) were filled out by 12 of the Kohnstamm-positive subjects and 19 of the Kohnstamm-negative subjects . 
+These were the same subjects who were given the Rorschach test . 
+Some predictions had been made concerning factors R , N , I and Co on these inventories which appeared to be directly related to control and security aspects of personality functioning which were hypothesized as being of importance in differential Kohnstamm reactivity . 
+Only Co differentiated between the two groups at less than the 5 % level ( Afj ) . 
+One prediction had been made about the difference in security or self-confidence between those subjects who shifted their Kohnstamm reactivity when informed and those who did not . 
+The nonreactors had been separated into two groups on this assumption with the presumably `` secure '' nonreactors and `` secure '' reactors being used as the groups for comparative personality studies . 
+==========
+Control of socioeconomic status It would have been desirable for the two communities to have differed only in respect to the variable being investigated : the degree of structure in teaching method . 
+The structured schools were in an industrial city , with three-family tenement houses typical of the residential areas , but with one rather sizable section of middle-class homes . 
+The unstructured schools were in a large suburban community , predominantly middle - to upper-middle class , but fringed by an industrial area . 
+In order to equate the samples on socioeconomic status , we chose schools in both cities on the basis of socioeconomic status of the neighborhoods . 
+School principals and guidance workers made ratings of the various neighborhoods and the research team made independent observations of houses and dwelling areas . 
+An objective scale was developed for rating school neighborhoods from these data . 
+Equal proportions of children in each city were drawn from upper-lower and lower-middle class neighborhoods . 
+Subjects Individual differences in maturation and the development of readiness for learning to read indicate that not until the third grade have most children had ample opportunity to demonstrate their capacity for school achievement . 
+Therefore , third-grade children were chosen as subjects for this study . 
+For purposes of sample selection only ( individual tests were given later ) we obtained group test scores of reading achievement and intelligence from school records of the entire third-grade population in each school system . 
+==========
+Rookie Ron Nischwitz continued his pinpoint pitching Monday night as the Bears made it two straight over Indianapolis , 5-3 . 
+The husky 6-3 , 205-pound lefthander , was in command all the way before an on-the-scene audience of only 949 and countless of television viewers in the Denver area . 
+It was Nischwitz ' third straight victory of the new season and ran the Grizzlies ' winning streak to four straight . 
+They now lead Louisville by a full game on top of the American Association pack . 
+Nischwitz fanned six and walked only Charley Hinton in the third inning . 
+He has given only the one pass in his 27 innings , an unusual characteristic for a southpaw . 
+The Bears took the lead in the first inning , as they did in Sunday 's opener , and never lagged . 
+Dick McAuliffe cracked the first of his two doubles against Lefty Don Rudolph to open the Bear 's attack . 
+After Al Paschal gruonded out , Jay Cooke walked and Jim McDaniel singled home McAuliffe . 
+Alusik then moved Cooke across with a line drive to left . 
+Jay Porter drew a base on balls to fill the bases but Don Wert 's smash was knocked down by Rudolph for the putout . 
+==========
+A band viscometer is shown in Figure 2 . 
+It consists of two blocks with flat surfaces held apart by shims . 
+There is a small well in the top in which the fluid or paste to be tested is placed . 
+A tape of cellulose acetate is pulled between the blocks and the tape pulls the fluid or paste with it between the parallel faces of the blocks . 
+In normal use weights are hung on the end of the tape and allowed to pull the tape and the material to be tested between the blocks . 
+After it has reached terminal velocity , the time for the tape to travel a known distance is recorded . 
+By the use of various weights , data for a force-rate of shear graph can be obtained . 
+The instrument used for this work was a slight modification of that previously described . 
+In this test a Afj tape was pulled between the blocks with a motor and pulley at a rate of Afj with a clearance of 0.002 '' '' on each side of the tape . 
+==========
+There are more stems per item in Athabascan , which expresses the fact that the Athabascan languages have undergone somewhat more change in diverging from proto-Athabascan than the Yokuts languages from proto-Yokuts . 
+This may be because the Athabascan divergence began earlier ; ; or again because the Athabascan languages spread over a very much larger territory ( including three wholly separated areas ) ; ; or both . 
+The differentiation , however , is not very much greater , as shown by the fact that Athabascan shows 3.46 stems per meaning slot as against 2.75 for Yokuts , with a slightly greater number of languages represented in our sample : 24 as against 21 . 
+( On deduction of one-eighth from 3.46 , the stem item rate becomes 3.03 against 2.75 in equivalent number of languages . 
+) These general facts are mentioned to make clear that the total situation in the two families is similar enough to warrant comparison . 
+The greatest difference in the two sets of figures is due to differences in the two sets of lists used . 
+These differences in turn result from the fact that my Yokuts vocabularies were built up of terms selected mainly to insure unambiguity of English meaning between illiterate informants and myself , within a compact and uniform territorial area , but that Hoijer 's vocabulary is based on Swadesh 's second glottochronological list which aims at eliminating all items which might be culturally or geographically determined . 
+Swadesh in short was trying to develop a basic list that was universal ; ; I , one that was specifically adapted to the San Joaquin Valley . 
+The result is that I included 70 animal names , but Swadesh only 4 ; ; and somewhat similarly for plants , 16 as against 4 . 
+Swadesh , and therefore Hoijer , felt compelled to omit all terms denoting species or even genera ( ox , vulture , salmon , yellow pine , manzanita ) ; ; their classes of animal and plant terms are restricted to generalizations or recurrent parts ( fish , bird , tree , grass , horn , tail , bark , root ) . 
+The groups are therefore really non-comparable in content as well as in size . 
+==========
+High-gain , photoelectronic image intensification is applied under conditions of low incident light levels whenever the integration time required by a sensor or recording instrument exceeds the limits of practicability . 
+Examples of such situations are ( aerial ) night reconnaissance , the recording of radioactive tracers in live body tissues , special radiography in medical or industrial applications , track recording of high energy particles , etc .. High-gain photoelectronic image intensification may be achieved by several methods ; ; some of these are listed below : ( A ) Cascading single stages by coupling lens systems , ( B ) Channel-type , secondary emission image intensifier , ( C ) Image intensifier based upon the `` multipactor '' principle , ( D ) Transmission secondary electron multiplication image intensifiers ( TSEM tubes ) , ( E ) Cascading of single stages , enclosed in one common envelope . 
+Cascading single stages by coupling lens systems is rather inefficient as the lens systems limit the obtainable gain quite severely . 
+Channel-type image intensifiers are capable of achieving high-gain values ; ; they suffer , however , from an inherently low resolution . 
+Image intensifiers based upon the multipactor principle appear to hold promise as far as obtainable resolution is concerned . 
+However , the unavoidable low-duty cycle restricts the effective gain . 
+TSEM tubes have been constructed showing high gain and resolution . 
+However , electrostatic focus , important for many applications , has not been realized for these devices . 
+Resolution limitations with electrostatic focus might be anticipated due to chromatic aberrations . 
+Furthermore , the thin film dynodes appear to have a natural diameter limitation wherever a mesh support can not be tolerated . 
+Cascaded single stages enclosed by a common envelope have been constructed with high gain and high resolution . 
+==========

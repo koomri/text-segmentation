@@ -1,0 +1,90 @@
+==========
+the three main categories of antisubmarine warfare operations are defense of shipping , defense of naval forces , and area defense . 
+The last category overlaps the others in amphibious operations and near terminals and bases . 
+To effect these operations , five elements exist ( 1 ) surface , ( 2 ) air , ( 3 ) mines , ( 4 ) submarine , and ( 5 ) fixed installations . 
+Surface forces have been used to provide defense zones around naval and merchant ship formations , air to furnish area surveillance , and mines for protection of limited areas . 
+Submarines and shore installations are new elements . 
+The submarine now has a definite place in submarine defense particularly in denying enemy access to ocean areas . 
+Fixed installations offer possibilities for area detection . 
+Mine warfare is being reoriented against submarine targets . 
+==========
+the century from 1815 to 1914 the law of nations became international law . 
+Several factors contributed to this change . 
+The Congress of Vienna is a convenient starting point because it both epitomized and symbolized what was to follow . 
+Here in 1815 the great nations assembled to legislate not merely for Europe , but for the world . 
+Thus the Congress marks a formal recognition of the political system that was central to world politics for a century . 
+International law had to fit the conditions of Europe , and nothing that could not fit this system , or the interests of the great European nations collectively , could possibly emerge as law in any meaningful sense . 
+Essentially this imposed two conditions : First , international law had to recognize and be compatible with an international political system in which a number of states were competitive , suspicious , and opportunistic in their political alignments with one another ; ; second , it had to be compatible with the value system that they shared . 
+In both respects , international law was Europeanized . 
+It was not always easy to develop theory and doctrine which would square the two conditions . 
+On the one hand , the major European nations had to maintain vis-a-vis each other an emphasis upon sovereignty , independence , formal equality -- thus insuring for themselves individually an optimal freedom of action to maintain the `` flexibility of alignment '' that the system required and to avoid anything approaching a repetition of the disastrous Napoleonic experience . 
+==========
+The following items may be specified in actual or symbolic form in the operands of those instructions which refer to the particular items : channel , unit , combined channel and unit , combined arm and file , unit record synchronizers , inquiry synchronizers , and alteration switches . 
+The declarative operation EQU is used to equate symbolic names to item numbers ( see page 85 ) . 
+Continuation cards Certain Autocoder statements make provision for more parameters than may be contained in the operand ( columns 21 - 75 ) of a single line on the Autocoder coding sheet . 
+When this is the case , the appropriate section of this manual will indicate that `` Continuation Cards '' may be used . 
+Thus , when specifically permitted , the operand of a given line on the Autocoder coding sheet may be continued in the operand of from one to four additional lines which immediately follow . 
+The label and operation columns must be blank and the continuation of the operand must begin in column 21 ; ; i.e. , it must be left-justified in the operand column of the coding sheet . 
+The operand need not extend across the entire operand column of either the header card or continuation cards but may end with the comma following any parameter . 
+Remarks may appear to the right of the last parameter on each card provided they are separated from the operand by at least two blank spaces . 
+Illustrations of the use of continuation cards are included throughout the examples illustrating the various statements . 
+If a continuation card follows a statement that does not permit continuation cards , the compiler will generate a NOP and issue an error message . 
+==========
+Santa Barbara -- `` The present recovery movement will gather steady momentum to lift the economy to a new historic peak by this autumn '' , Beryl W. Sprinkel , economist of Harris Trust & Savings Bank , Chicago , predicted at the closing session here Tuesday of Investment Bankers Assn. , California group , conference . 
+Another speaker , William H. Draper , Jr. , former Under Secretary of the Army and now with the Palo Alto venture capital firm of Draper , Gaither & Anderson , urged the U.S. to `` throw down the gauntlet of battle to communism and tell Moscow bluntly we wo n't be pushed around any more '' . 
+He urged support for President Kennedy 's requests for both defense and foreign aid appropriations . 
+' not flash in pan ' Sprinkel told conferees that the recent improvement in economic activity was not a `` temporary flash in the pan '' but the beginning of a substantial cyclical expansion that will carry the economy back to full employment levels and witness a renewal of our traditional growth pattern . 
+`` In view of the current expansion , which promises to be substantial '' he said the odds appear to favor rising interest rates in coming months , but `` there is reason to believe the change will not be as abrupt as in 1958 nor as severe as in late 1959 and 1960 '' . 
+==========
+a simple , closed , plane curve C which is a real-analytic image of the unit circle , and which is given by Afj . 
+These are real analytic periodic functions with period T . 
+In the following paper it is shown that in a certain definite sense , exactly an odd number of squares can be inscribed in every such curve which does not contain an infinite number of inscribed squares . 
+This theorem is similar to the theorem of Kakutani that there exists a circumscribing cube around any closed , bounded convex set in Afj . 
+The latter theorem has been generalized by Yamabe and Yujobo , and Cairns to show that in Afj there are families of such cubes . 
+Here , for the case of squares inscribed in plane curves , we remove the restriction to convexity and give certain other results . 
+A square inscribed in a curve C means a square with its four corner points on the curve , though it may not lie entirely in the interior of C . 
+Indeed , the spiral Afj , with the two endpoints connected by a straight line possesses only one inscribed square . 
+The square has one corner point on the straight line segment , and does not lie entirely in the interior . 
+On C , from the point P at Afj to the point Q at Afj , we construct the chord , and upon the chord as a side erect a square in such a way that as S approaches zero the square is inside C . 
+==========
+A royal decree issued in 1910 , two years after the Belgian government assumed authority for the administration of the Congo , prescribed the registration of all adult males by chiefdoms . 
+Further decrees along this line were issued in 1916 and 1919 . 
+In 1922 a continuous registration of the whole indigenous population was instituted by ordinance of the Governor-General , and the periodic compilation of these records was ordered . 
+But specific procedures for carrying out this plan were left to the discretion of the provincial governors . 
+A unified set of regulations , applicable to all areas , was issued in 1929 , and a complementary series of demographic inquiries in selected areas was instituted at the same time . 
+The whole system was again reviewed and reorganized in 1933 . 
+General responsibility for its administration rested with a division of the colonial government concerned with labor supply and native affairs , Service des Affaires Indigenes et de la Main-d'Oeuvre ( AIMO , Afj Direction , Afj Direction Generale , Gouvernement Generale ) . 
+Tribal authorities , the chiefs and their secretaries , were held responsible for maintaining the registers of indigenous persons within their territories , under the general supervision of district officials . 
+The district officials , along with their other duties , were obliged to organize special demographic inquiries in selected areas and to supervise the annual tabulations of demographic statistics . 
+The regulations require the inscription of each individual ( male or female , adult or child ) on a separate card ( fiche ) . 
+==========
+London , Feb. 9 -- Vital secrets of Britain 's first atomic submarine , the Dreadnought , and , by implication , of the entire United States navy 's still-building nuclear sub fleet , were stolen by a London-based soviet spy ring , secret service agents testified today . 
+The Dreadnought was built on designs supplied by the United States in 1959 and was launched last year . 
+It is a killer sub -- that is , a hunter of enemy subs . 
+It has a hull patterned on that of the United States navy 's Nautilus , the world 's first atomic submarine . 
+==========
+An analysis of the election falls naturally in four parts . 
+First is the long and still somewhat obscure process of preparation , planning and discussion . 
+Preparation began slightly more than a year after independence with the first steps to organize rural communes . 
+All political interests supported electoral planning , although there are some signs that the inherent uncertainties of a popular judgment led to some procrastination . 
+The second major aspect of the election is the actual procedure of registration , nomination and voting . 
+Considerable technical skill was used and the administration of the elections was generally above reproach . 
+However , the regionally differentiated results , which appear below in tables , are interesting evidence of the problems of developing self-government under even the most favorable circumstances . 
+A third aspect , and probably the one open to most controversy , is the results of the election . 
+==========
+The vast Central Valley of California is one of the most productive agricultural areas in the world . 
+During the summer of 1960 , it became the setting for a bitter and basic labor-management struggle . 
+The contestants in this economic struggle are the Agricultural Workers Organizing Committee ( AWOC ) of the AFL-CIO and the agricultural employers of the State . 
+By virtue of the legal responsibilities of the Department of Employment in the farm placement program , we necessarily found ourselves in the middle between these two forces . 
+It is not a pleasant or easy position , but one we have endeavored to maintain . 
+We have sought to be strictly neutral as between the parties , but at the same time we have been required frequently to rule on specific issues or situations as they arose . 
+Inevitably , one side was pleased and the other displeased , regardless of how we ruled . 
+Often the displeased parties interpreted our decision as implying favoritism toward the other . 
+We have consoled ourselves with the thought that this is a normal human reaction and is one of the consequences of any decision in an adversary proceeding . 
+It is disconcerting , nevertheless , to read in a labor weekly , `` Perluss knuckles down to growers '' , and then to be confronted with a growers ' publication which states , `` Perluss recognizes obviously phony and trumped-up strikes as bona fide '' . 
+For a number of years , there have been sporadic attempts in California to organize farm workers . 
+==========
+A . 
+Reasons for selecting mail questionnaire method There were two methods that could have been used for conducting the study within the resources available : ( 1 ) interviews in depth with a few selected companies , and ( 2 ) the more limited interrogation of a large number of companies by means of a mail questionnaire . 
+While the method of interviewing a small number of companies was appealing because of the opportunity it might have furnished to probe fully the reasons and circumstances of a company 's practices and opinions , it also involved the risk of paying undue attention to the unique and peculiar problems of just a few individual companies . 
+==========

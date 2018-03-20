@@ -1,0 +1,70 @@
+Simulation of Beeferman metric
+1 = Propose none
+2 = Propose all
+3 = Random unknown # boundaries
+4 = Random known # boundaries
+
+5 = TextTiling with default parameters
+
+My implementation of DotPlot, maximization, cosine sim, sentence based, stem, stopwords removed
+6 = Normal
+7 = Smoothing
+8 = Noise reduction
+9 = Thresholding
+10 = Hard ranking 3x3 mask
+11 = Hard ranking 5x5 mask
+12 = Hard ranking 7x7 mask
+13 = Hard ranking 9x9 mask
+14 = Hard ranking 11x11 mask (i.e. C99)
+15 = Hard ranking 13x13 mask
+16 = Hard ranking 11x11 mask with Spread activation
+17 = Hard ranking 11x11 mask, rank used as weight for similarity matrix
+
+Block based DotPlot, maximization, dot density as sim
+18 = Stem reiteration without stopword removal
+19 = Stem reiteration with stopword removal
+20 = Spread activation
+
+Exact implementation of DotPlot
+21 = Maximization
+22 = Minimization
+
+Segmenter
+23 = Fixed distance model (has memory usage problems)
+24 = Adaptive distance model
+
+C99 (reimplementation of 10 with 11x11 mask)
+25 = Known # boundaries
+26 = Unknown # boundaries
+
+TextTiling (Hearst's original implementation)
+27 = Default parameters
+28 = Parameters from Hearst's paper, k=6, w=20
+
+More simulation for Beeferman metric
+29 = Chop document into regular sized chunks to check whether
+     the data is biased, since the mean segment size should
+     be a constant (given infinite data). Better check, just in case.
+
+Mask size testing with C99
+30 = 1x1 mask, i.e. all rank=0, see if this will bias the evaluation
+	 metric to a good score. Need to check to ensure the evaluation data
+	 is reliable.
+31 = 3x3 mask
+32 = 5x5 mask
+33 = 7x7 mask
+34 = 9x9 mask
+35 = 11x11 mask
+36 = 13x13 mask
+37 = 15x15 mask
+38 = 17x17 mask
+
+Min-Yen Kan's Segmenter (original implementation)
+39 = Segmenter 1.6 with default databases and parameters
+
+Further testing with C99
+40 = Context vector frequencies weighted by entropy
+     calculated from document term frequency
+41 = Context vector frequencies weighted by inverse term
+     frequency from document term frequency
+42 = C99 with 3x3 mask, automatic termination

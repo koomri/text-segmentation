@@ -1,0 +1,102 @@
+==========
+The following items may be specified in actual or symbolic form in the operands of those instructions which refer to the particular items : channel , unit , combined channel and unit , combined arm and file , unit record synchronizers , inquiry synchronizers , and alteration switches . 
+The declarative operation EQU is used to equate symbolic names to item numbers ( see page 85 ) . 
+Continuation cards Certain Autocoder statements make provision for more parameters than may be contained in the operand ( columns 21 - 75 ) of a single line on the Autocoder coding sheet . 
+When this is the case , the appropriate section of this manual will indicate that `` Continuation Cards '' may be used . 
+Thus , when specifically permitted , the operand of a given line on the Autocoder coding sheet may be continued in the operand of from one to four additional lines which immediately follow . 
+The label and operation columns must be blank and the continuation of the operand must begin in column 21 ; ; i.e. , it must be left-justified in the operand column of the coding sheet . 
+The operand need not extend across the entire operand column of either the header card or continuation cards but may end with the comma following any parameter . 
+Remarks may appear to the right of the last parameter on each card provided they are separated from the operand by at least two blank spaces . 
+Illustrations of the use of continuation cards are included throughout the examples illustrating the various statements . 
+If a continuation card follows a statement that does not permit continuation cards , the compiler will generate a NOP and issue an error message . 
+Additional restrictions regarding the use of continuation cards with macro-instructions appear on page 106 . 
+==========
+The Poynting-Robertson effect ( Robertson , 1937 ; ; Wyatt and Whipple , 1950 ) , which is a retardation of the orbital motion of particles by the relativistic aberration of the repulsive force of the impinging solar radiation , causes the dust to spiral into the sun in times much shorter than the age of the Earth . 
+The radial velocity varies inversely as the particle size -- a 1000-m-diameter particle near the orbit of Mars would reach the sun in about 60 million years . 
+Whipple ( 1955 ) extends the effects to include the solar-corpuscular-radiation pressure , which increases both the minimum particle size and the drag . 
+Further , the corpuscular radiation , i.e. , the solar-wind protons , must sputter away the surface atoms of the dust and cause a slow diminution in size , with a resultant increase in both the Poynting-Robertson effect and the ratio of the repulsive force to the gravitational force . 
+The Poynting-Robertson effect causes the semi-major axis of orbits to diminish more rapidly than the semi-minor axis , with a consequent tendency toward circular orbits as the particles move toward the sun . 
+Also , planetary gravitational attraction increases the dust concentration near the plane of the ecliptic as the sun is approached . 
+At one astronomical unit from the sun ( the Earth 's distance ) the dust orbits are probably nearly circular . 
+If such is the case , the particles within a distance of about Afj of the Earth will have , relative to the Earth , a kinetic energy less than their potential energy and they will be captured into orbits about the Earth . 
+De Jager ( 1955 ) has calculated the times required for these particles to reach the atmosphere under the influence of the Poynting-Robertson effect , which in this case causes the orbits to become more and more eccentric without changing the semi-major axis . 
+==========
+A . 
+Reasons for selecting mail questionnaire method There were two methods that could have been used for conducting the study within the resources available : ( 1 ) interviews in depth with a few selected companies , and ( 2 ) the more limited interrogation of a large number of companies by means of a mail questionnaire . 
+While the method of interviewing a small number of companies was appealing because of the opportunity it might have furnished to probe fully the reasons and circumstances of a company 's practices and opinions , it also involved the risk of paying undue attention to the unique and peculiar problems of just a few individual companies . 
+As a result , it was decided that a mail questionnaire sent to a large number of companies would be more effective in determining the general practices and opinions of small firms and in highlighting some of the fundamental and recurring problems of defense procurement that concern both industry and government . 
+It was also hoped that responses to a mail questionnaire would suggest fruitful inquiries that might be made in subsequent studies of a more detailed nature . 
+It is recognized that a mail questionnaire has inherent limitations . 
+There is the danger that the questions will mean different things to different respondents . 
+Simple `` yes '' or `` no '' answers do not reveal the different shades of opinion that the various respondents may have . 
+A respondent may want to make alternative answers because he does not know the precise circumstances assumed in the question . 
+==========
+6.4 . 
+The primary decomposition theorem We are trying to study a linear operator T on the finite-dimensional space V , by decomposing T into a direct sum of operators which are in some sense elementary . 
+We can do this through the characteristic values and vectors of T in certain special cases , i.e. , when the minimal polynomial for T factors over the scalar field F into a product of distinct monic polynomials of degree 1 . 
+What can we do with the general T ? ? 
+If we try to study T using characteristic values , we are confronted with two problems . 
+First , T may not have a single characteristic value ; ; this is really a deficiency in the scalar field , namely , that it is not algebraically closed . 
+==========
+it has made an exact assessment of the removal mechanisms possible . 
+The instrument is shown in Fig. 1 and consists essentially of a hard , sharp , tungsten carbide knife which is pushed along the substrate to remove the coating . 
+The force required to accomplish removal is plotted , by means of an electronic recorder , against distance of removal . 
+Since the removal force is a function of coating thickness , a differential transformer pickup has been incorporated into the instrument to accurately measure film thickness . 
+This , too , is recorded against distance by a repeat run over the same track previously cut . 
+A number of adjustment features are included in the Hesiometer to facilitate measurement and permit ready removal of coatings deposited on such substrates as iron and other metals , glass , wood , and plastic surfaces . 
+The measurement of topcoats on primers can also readily be carried out . 
+Hesiometer results have been found to compare excellently with manual knife scratching tests . 
+The instrumental method , however , is about 100 times more sensitive and yields numerical results which can be accurately repeated at will over a period of time . 
+If a wedge-shaped coating of increasing thickness is removed from a substrate by an instrument like the Hesiometer with a knife of constant rake angle , a number of removal mechanisms are often observed which depend upon the thickness of the coating . 
+At low thicknesses a cutting ( or shearing ) phenomenon is often encountered . 
+==========
+Analysis Analysis means the evaluation of subparts , the comparative ratings of parts , the comprehension of the meaning of isolated elements . 
+Analysis in roleplaying is usually done for the purpose of understanding strong and weak points of an individual or as a process to eliminate weak parts and strengthen good parts . 
+Impersonal purposes Up to this point stress has been placed on roleplaying in terms of individuals . 
+Roleplaying can be done for quite a different purpose : to evaluate procedures , regardless of individuals . 
+For example : a sales presentation can be analyzed and evaluated through roleplaying . 
+Examples Let us now put some flesh on the theoretical bones we have assembled by giving illustrations of roleplaying used for evaluation and analysis . 
+One should keep in mind that many of the exciting possiblities of roleplaying are largely unexplored and have not been used in industry to the extent that they have been in military and other areas . 
+Evaluation The president of a small firm selling restaurant products , had considerable difficulty in finding suitable salesmen for his business . 
+Interviewing , checking references , training the salesmen , having them go with more experienced salesmen was expensive -- and the rate of attrition due to resignations or unsatisfactory performance was too high . 
+==========
+last the White House is going to get some much-copied furniture by that master American craftsman , Duncan Phyfe , whose designs were snubbed in his lifetime when the U.S. Presidents of the 19th Century sent abroad for their furnishings . 
+The American Institute of Decorators has acquired a rare complete set of sofas and chairs which are to be placed in the Executive Mansion 's library . 
+The suite has been in the same family since the early 1800 's . 
+The gift is being presented by `` heirs and descendants of the Rutherford family of New Jersey , whose famous estate , `` Tranquility '' , was located near the Duncan Phyfe workshop at Andover , N. J .. Authenticated pieces of Duncan Phyfe furniture are uncommon , although millions of American homes today display pieces patterned after the style trends he set 150 years ago . 
+This acquisition is a matched , perfect set -- consisting of two sofas six feet long , plus six sidechairs and two armchairs . 
+The AID has undertaken the redecoration of the White House library as a project in connection with the work being done by First Lady Jacqueline Kennedy 's Fine Arts Advisory Committee to secure antiques for the presidential home . 
+It is the AID 's intention to create in the library `` a miniature museum of Americana '' before completed refurbishing is unveiled early this fall . 
+The room will also feature another rarity many antiquarians would consider more important than the Duncan Phyfe furniture . 
+The AID has found a mantlepiece attributed to Samuel McIntyre of Salem , Mass. , an architect and woodcarver who competed for the designing of the Capitol here in 1792 . 
+The mantel was found in a recently demolished Salem house and is being fitted over the White House library fireplace . 
+It will be painted to match the paneling in the room . 
+==========
+The next question is whether board members favor their own social classes in their roles as educational policy-makers . 
+On the whole , it appears that they do not favor their own social classes in an explicit way . 
+Seldom is there an issue in which class lines can be clearly drawn . 
+A hypothetical issue of this sort might deal with the establishment of a free public junior college in a community where there already was a good private college which served the middle-class youth adequately but was too expensive for working-class youth . 
+In situations of this sort the board generally favors the expansion of free education . 
+Campbell studied the records of 172 school board members in twelve western cities over the period of 1931 - 40 and found `` little or no relationship between certain social and economic factors and school board competence '' , as judged by a panel of professional educators who studied the voting records on educational issues . 
+The few cases of clear favoritism along social-class lines are as likely as not to involve representatives of the working class on the school board who favor some such practice as higher wages for janitors rather than pay increases for teachers , and such issues are not issues of educational policy . 
+In general , it appears that trustees and board members attempt to represent the public interest in their administration of educational policy , and this is made easier by the fact that the dominant values of the society are middle-class values , which are generally thought to be valid for the entire society . 
+There have been very few cases of explicit conflict of interest between the middle class and any other class in the field of educational policy . 
+If there were more such cases , it would be easier to answer the question whether the policy-makers favor their own social classes . 
+==========
+6.4 . 
+The primary decomposition theorem We are trying to study a linear operator T on the finite-dimensional space V , by decomposing T into a direct sum of operators which are in some sense elementary . 
+We can do this through the characteristic values and vectors of T in certain special cases , i.e. , when the minimal polynomial for T factors over the scalar field F into a product of distinct monic polynomials of degree 1 . 
+What can we do with the general T ? ? 
+If we try to study T using characteristic values , we are confronted with two problems . 
+First , T may not have a single characteristic value ; ; this is really a deficiency in the scalar field , namely , that it is not algebraically closed . 
+==========
+A . 
+Reasons for selecting mail questionnaire method There were two methods that could have been used for conducting the study within the resources available : ( 1 ) interviews in depth with a few selected companies , and ( 2 ) the more limited interrogation of a large number of companies by means of a mail questionnaire . 
+While the method of interviewing a small number of companies was appealing because of the opportunity it might have furnished to probe fully the reasons and circumstances of a company 's practices and opinions , it also involved the risk of paying undue attention to the unique and peculiar problems of just a few individual companies . 
+As a result , it was decided that a mail questionnaire sent to a large number of companies would be more effective in determining the general practices and opinions of small firms and in highlighting some of the fundamental and recurring problems of defense procurement that concern both industry and government . 
+It was also hoped that responses to a mail questionnaire would suggest fruitful inquiries that might be made in subsequent studies of a more detailed nature . 
+It is recognized that a mail questionnaire has inherent limitations . 
+There is the danger that the questions will mean different things to different respondents . 
+Simple `` yes '' or `` no '' answers do not reveal the different shades of opinion that the various respondents may have . 
+A respondent may want to make alternative answers because he does not know the precise circumstances assumed in the question . 
+==========

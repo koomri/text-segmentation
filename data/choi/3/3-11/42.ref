@@ -1,0 +1,82 @@
+==========
+The many linguistic techniques for reducing the amount of dictionary information that have been proposed all organize the dictionary 's contents around prefixes , stems , suffixes , etc . 
+. 
+A significant reduction in the voume of store information is thus realized , especially for a highly inflected language such as Russian . 
+For English the reduction in size is less striking . 
+This approach requires that : ( 1 ) each text word be separated into smaller elements to establish a correspondence between the occurrence and dictionary entries , and ( 2 ) the information retrieved from several entries in the dictionary be synthesized into a description of the particular word . 
+The logical scheme used to accomplish the former influences the placement of information in the dictionary file . 
+Implementation of the latter requires storage of information needed only for synthesis . 
+We suggest the application of certain data-processing techniques as a solution to the problem . 
+But first , we must define two terms so that their meaning will be clearly understood : form -- any unique sequence of alphabetic characters that can appear in a language preceded and followed by a space ; ; occurrence -- an instance of a form in text . 
+We propose a method for selecting only dictionary information required by the text being translated and a means for passing the information directly to the occurrences in text . 
+==========
+Polyphosphates gave renewed life to soap products at a time when surfactants were a threat though expensive , and these same polyphosphates spelled the decline of soap usage when the synergism between polyphosphates and synthetic detergent actives was recognized and exploited . 
+The market today for detergent builders is quite diverse . 
+The best known field of application for builders is in heavy-duty , spray-dried detergent formulations for household use . 
+==========
+These societies can expect to face difficult times . 
+As the historic processes of modernization gradually gain momentum , their cohesion will be threatened by divisive forces , the gaps between rulers and subjects , town and country , will widen ; ; new aspirants for power will emerge whose ambitions far exceed their competence ; ; old rulers may lose their nerve and their sense of direction . 
+National leaders will have to display the highest skills of statesmanship to guide their people through times of uncertainty and confusion which destroy men 's sense of identity . 
+Feelings of a community of interest will have to be recreated -- in some of the new nations , indeed , they must be built for the first time -- on a new basis which looks toward the future and does not rely only on shared memories of the past . 
+==========
+The following items may be specified in actual or symbolic form in the operands of those instructions which refer to the particular items : channel , unit , combined channel and unit , combined arm and file , unit record synchronizers , inquiry synchronizers , and alteration switches . 
+The declarative operation EQU is used to equate symbolic names to item numbers ( see page 85 ) . 
+Continuation cards Certain Autocoder statements make provision for more parameters than may be contained in the operand ( columns 21 - 75 ) of a single line on the Autocoder coding sheet . 
+When this is the case , the appropriate section of this manual will indicate that `` Continuation Cards '' may be used . 
+Thus , when specifically permitted , the operand of a given line on the Autocoder coding sheet may be continued in the operand of from one to four additional lines which immediately follow . 
+The label and operation columns must be blank and the continuation of the operand must begin in column 21 ; ; i.e. , it must be left-justified in the operand column of the coding sheet . 
+The operand need not extend across the entire operand column of either the header card or continuation cards but may end with the comma following any parameter . 
+==========
+The Summary Report On Desegregation Progress In Education In The Middle-South Region , 1959 - 1960 '' clearly shows two pieces of information . 
+The Summary Report , which was prepared for this Conference , indicates , first , that actual or pending school desegregation is increasing ; ; second , that both actual and pending desegregation is , with few exceptions , the product or result of court order . 
+The Report together with other information suggests that desegregation in the schools is slow . 
+The Middle-South Region , as defined by the National Association of Intergroup Relations Officials ( NAIRO ) , consists of the states of Kentucky , Maryland , Tennessee , West Virginia , Delaware , Virginia and the District of Columbia . 
+The states and the Nation 's Capital all have some desegregation , in fact some dating back to 1954 ; ; but the region also embraces some of the staunchest opposition . 
+Desegregation has been opposed by massive resistance , interposition , pupil assignment ( with no assignments of Negro children ) , and hate bombings . 
+Desegregation and court order Now let 's look at the evidence that shows the increase in desegregation and such increase as a result of court order . 
+First Kentucky . 
+==========
+sentences , patterns of stress are determined by complex combinations of influences that can only be suggested here . 
+The tendency is toward putting dominant stress at the end . 
+There is a parallel to this tendency in the assignment of time in long-known hymn tunes . 
+Thus the first lines of one of Charles Wesley 's hymns are as follows . 
+`` A charge to keep I have , A God to glorify '' . 
+In the tune to which this hymn is most often sung , `` Boylston '' , the syllables have and fy , ending their lines , have twice the time any other syllables have . 
+Dominant stress is of course more than extended duration , and normally centers on syllables that would have primary stress or phrase stress if the words or longer units they are parts of were spoken alone : a dominant stress given to glorify would normally center on its first syllable rather than its last . 
+But the parallel is significant . 
+When the answer to what 's wrong now ? ? 
+Is Bill 's broken a chair , dominant stress will usually be on the complement a chair . 
+From the point of view of syntactic analysis the head word in the statement is the predicator has broken , and from the point of view of meaning it would seem that the trouble centers in the breaking ; ; but dominant stress will be assigned to broken only in rather exceptional versions of the sentence . 
+==========
+emotional reactions in the higher vertebrates depend on individual experience and are aroused in man , in addition , by complex symbols , one would expect that the hypothalamus could be excited from the cortex . 
+In experiments with topical application of strychnine on the cerebral cortex , the transmission of impulses from the cortex to the hypothalamus was demonstrated . 
+Moreover , the responsiveness of the hypothalamus to nociceptive stimulation is greatly increased under these conditions . 
+Even more complex and obviously cortically induced forms of emotional arousal could be elicited in monkey A on seeing monkey B ( but not a rabbit ) in emotional stress . 
+==========
+Elburn , Ill . 
+-- Farm machinery dealer Bob Houtz tilts back in a battered chair and tells of a sharp pickup in sales : `` We 've sold four corn pickers since Labor Day and have good prospects for 10 more . 
+We sold only four pickers all last year '' . 
+==========
+Resentment welled up yesterday among Democratic district leaders and some county leaders at reports that Mayor Wagner had decided to seek a third term with Paul R. Screvane and Abraham D. Beame as running mates . 
+At the same time reaction among anti-organization Democratic leaders and in the Liberal party to the Mayor 's reported plan was generally favorable . 
+Some anti-organization Democrats saw in the program an opportunity to end the bitter internal fight within the Democratic party that has been going on for the last three years . 
+The resentment among Democratic organization leaders to the reported Wagner plan was directed particularly at the Mayor 's efforts to name his own running mates without consulting the leaders . 
+Some viewed this attempt as evidence that Mr. Wagner regarded himself as bigger than the party . 
+Opposition reported Some Democratic district and county leaders are reported trying to induce State Controller Arthur Levitt of Brooklyn to oppose Mr. Wagner for the Mayoral nomination in the Sept. 7 Democratic primary . 
+These contend there is a serious question as to whether Mr. Wagner has the confidence of the Democratic rank and file in the city . 
+Their view is that last-minute changes the Mayor is proposing to make in the Democratic ticket only emphasize the weakness of his performance as Mayor . 
+In an apparent effort to head off such a rival primary slate , Mr. Wagner talked by telephone yesterday with Representative Charles A. Buckley , the Bronx Democratic leader , and with Joseph T. Sharkey , the Brooklyn Democratic leader . 
+Mayor visits Buckley As usual , he made no attempt to get in touch with Carmine G. De Sapio , the Manhattan leader . 
+==========
+Recent criticism of Great Expectations has tended to emphasize its symbolic and mythic content , to show , as M.D. Zabel has said of Dickens generally , that much of the novel 's impact resides in its `` allegoric insight and moral metaphor '' . 
+J.H. Miller 's excellent chapter on Great Expectations has lately illustrated how fruitfully that novel can be read from such a perspective . 
+In his analysis , however , he touches upon but fails to explore an idea , generally neglected in discussions of the book , which I believe is central to its art -- the importance of human hands as a recurring feature of the narrative . 
+This essay seeks to make that exploration . 
+Dickens was not for nothing the most theatrical of the great Victorian writers . 
+He knew instinctively that next to voice and face an actor 's hands are his most useful possession -- that in fiction as in the theatre , gesture is an indispensable shorthand for individualizing character and dramatizing action and response . 
+It is hardly accidental , therefore , that many of his most vivid figures do suggestive or eccentric things with their hands . 
+In Great Expectations the hands become almost an obsession . 
+Mr. Jaggers habitually bites his forefinger , a gesture which conveys both contempt and the inscrutable abstractedness that half fascinates , half terrifies all who have dealings with him . 
+Miss Havisham 's withered hands , heavy as if her unhappiness were somehow concentrated in them , move in restless self-pity between her broken heart and her walking stick . 
+Pumblechook 's `` signature '' is the perpetually extended glad hand . 
+==========

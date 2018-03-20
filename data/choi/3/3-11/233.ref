@@ -1,0 +1,93 @@
+==========
+The following items may be specified in actual or symbolic form in the operands of those instructions which refer to the particular items : channel , unit , combined channel and unit , combined arm and file , unit record synchronizers , inquiry synchronizers , and alteration switches . 
+The declarative operation EQU is used to equate symbolic names to item numbers ( see page 85 ) . 
+Continuation cards Certain Autocoder statements make provision for more parameters than may be contained in the operand ( columns 21 - 75 ) of a single line on the Autocoder coding sheet . 
+When this is the case , the appropriate section of this manual will indicate that `` Continuation Cards '' may be used . 
+Thus , when specifically permitted , the operand of a given line on the Autocoder coding sheet may be continued in the operand of from one to four additional lines which immediately follow . 
+The label and operation columns must be blank and the continuation of the operand must begin in column 21 ; ; i.e. , it must be left-justified in the operand column of the coding sheet . 
+The operand need not extend across the entire operand column of either the header card or continuation cards but may end with the comma following any parameter . 
+Remarks may appear to the right of the last parameter on each card provided they are separated from the operand by at least two blank spaces . 
+Illustrations of the use of continuation cards are included throughout the examples illustrating the various statements . 
+If a continuation card follows a statement that does not permit continuation cards , the compiler will generate a NOP and issue an error message . 
+==========
+individual classes of foods differ in their requirements for preservation , a number of methods have been developed over the years involving one or a combination of procedures such as dehydration , fermentation , salting , chemical treatment , canning , refrigeration , and freezing . 
+The basic objectives in each instance are to make available supplies of food during the intervals between harvesting or slaughter , to minimize losses resulting from the action of microorganisms and insects , and to make it possible to transport foods from the area of harvest or production to areas of consumption . 
+In earlier years , the preservation of food was essentially related to survival . 
+In the more sophisticated atmosphere of today 's developed nations , food-preservation techniques have } sought also to bring variety , peak freshness , and optimum taste and flavor in foods at reasonable cost to the consumer . 
+With the development of nuclear technology , isotopic materials , and machine radiation sources in recent years , the possibilities of applying ionizing radiation to the preservation of foods attracted the attention of investigators in the United States and throughout the world . 
+An early hope that irradiation might be the ultimate answer to practically all food preservation problems was soon dispelled . 
+Interest remained , however , in the possibility that it would serve as a useful supplementary method for counteracting spoilage losses and for preserving some foods at lower over-all costs than freezing , or without employing heat or chemicals with their attendant taste alterations . 
+Factors responsible for the spoilage of foods The chief factors responsible for the spoilage of fresh foodstuffs are ( 1 ) microorganisms such as bacteria , molds , and yeasts , ( 2 ) enzymes , ( 3 ) insects , ( 4 ) sprouting , and ( 5 ) chemical reactions . 
+Microorganisms are often responsible for the rapid spoilage of foods . 
+Of special concern is the growth of bacteria such as Clostridium botulinum which generate poisonous products . 
+Enzymatic action in stored food produces changes which can adversely affect the appearance of food or its palatability . 
+==========
+the honeybee , practically all bees and bumblebees hibernate in a state of torpor . 
+Occasionally , you may come across one or two bumblebees in the cold season , when you are turning over sods in your garden , but you have to be a really keen observer to see them at all . 
+They keep their wings and feet pressed tightly against their bodies , and in spite of their often colorful attire you may very well mistake them for lumps of dirt . 
+I must add at once that these animals are what we call `` queens '' , young females that have mated in the previous summer or autumn . 
+It is on them alone that the future of their race depends , for all their relatives ( mothers , husbands , brothers , and unmated sisters ) have perished with the arrival of the cold weather . 
+Even some of the queens will die before the winter is over , falling prey to enemies or disease . 
+The survivors emerge on some nice , sunny day in March or April , when the temperature is close to 50-degrees and there is not too much wind . 
+Now the thing for us to do is to find ourselves a couple of those wonderful flowering currants such as the red Ribes sanguineum of our Pacific Northwest , or otherwise a good sloe tree , or perhaps some nice pussy willow in bloom , preferably one with male or staminate catkins . 
+The blooms of Ribes and of the willow and sloe are the places where large numbers of our early insects will assemble : honeybees , bumblebees , and other wild bees , and also various kinds of flies . 
+==========
+one explain , for example , allowing the survival of the right to amortize bond discount and premium ( section 381 ( c ) ( 9 ) ) , but not the right to amortize bond issue expenses ; ; or allowing a deduction for payment of certain obligations of a transferor assumed in the reorganization ( section 381 ( c ) ( 16 ) ) , but not a deduction for theft losses sustained by a transferor prior to a reorganization but discovered after it ; ; or requiring a transferor to carry over its method of depreciation ( section 381 ( c ) ( 6 ) ) , but not allowing rapid amortization of emergency facilities transferred in a reorganization ; ; or allowing survival of a dividend carryover to a personal holding company ( section 381 ( c ) ( 14 ) ) , but not carryover of excess tax credits for foreign taxes ? ? 
+These items , and most of the others listed above , seem quite comparable to items whose right of survival is provided for in section 381 . 
+There does not seem to be any reasonable basis for distinction either in terms of the nature of the tax attribute or in terms of tax-avoidance possibilities . 
+With respect to items such as these the provisions of section 381 ( c ) , viewed in historical perspective , suggest a rule requiring survival , whether the items are beneficial or detrimental to the surviving corporation . 
+To this extent some stretching of the literal meaning of the Committee Report seems justified , since the literal meaning conflicts with the clear implication , if not the language , of the statute . 
+It is not contended that section 381 should prescribe the survival of all of the transferor 's tax attributes . 
+Such an interpretation could not be justified by a construction of the statute alone ; ; it would certainly violate the intention of Congress as expressed in the Committee Report ; ; and in at least one instance , involving refund claims , it might be contrary to another provision of the United States Code . 
+Refund claims Section 203 of the United States Code voids an assignment of a claim against the Government unless made after it has been allowed , the amount due has been ascertained , and a warrant for its payment has been issued . 
+If it were not for judicial development of certain exceptions , this section would prohibit a suit for refund by an acquiring corporation for taxes paid by a transferor corporation , even though the reorganization meets the requirements of section 381 ( a ). A clearly recognized exception is a statutory merger or consolidation . 
+The leading case , Seaboard Air Line Railway v. United States , held that the transferee could sue for a refund of taxes paid by the transferor , and it has been consistently followed . 
+==========
+The thermal exchange of chlorine between Afj and liquid Afj is readily measurable at temperatures in the range of 180-degrees and above . 
+The photochemical exchange occurs with a quantum yield of the order of unity in the liquid phase at 65-degrees using light absorbed only by the Afj . 
+In the gas phase , with Afj of Afj and Afj of Afj , quantum yields of the order of Afj have been observed at 85-degrees . 
+Despite extensive attempts to obtain highly pure reagents , serious difficulty was experienced in obtaining reproducible rates of reaction . 
+It appears possible to set a lower limit of about Afj for the activation energy of the abstraction of a chlorine atom from a carbon tetrachloride molecule by a chlorine atom to form Afj radical . 
+The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination reactions . 
+Introduction Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data . 
+It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical reactions in both the liquid and gas phases and to determine values for activation energies of some of the intermediate reactions of atoms and free radicals , as well as information on the heat of dissociation of the carbon-halogen bond . 
+The reaction of chlorine with carbon tetrachloride seemed particularly suited for such studies . 
+==========
+Control of socioeconomic status It would have been desirable for the two communities to have differed only in respect to the variable being investigated : the degree of structure in teaching method . 
+The structured schools were in an industrial city , with three-family tenement houses typical of the residential areas , but with one rather sizable section of middle-class homes . 
+The unstructured schools were in a large suburban community , predominantly middle - to upper-middle class , but fringed by an industrial area . 
+In order to equate the samples on socioeconomic status , we chose schools in both cities on the basis of socioeconomic status of the neighborhoods . 
+School principals and guidance workers made ratings of the various neighborhoods and the research team made independent observations of houses and dwelling areas . 
+==========
+London , Feb. 9 -- Vital secrets of Britain 's first atomic submarine , the Dreadnought , and , by implication , of the entire United States navy 's still-building nuclear sub fleet , were stolen by a London-based soviet spy ring , secret service agents testified today . 
+The Dreadnought was built on designs supplied by the United States in 1959 and was launched last year . 
+It is a killer sub -- that is , a hunter of enemy subs . 
+It has a hull patterned on that of the United States navy 's Nautilus , the world 's first atomic submarine . 
+Its power unit , however , was derived from the reactor of the more modern American nuclear submarine Skipjack . 
+Five held for trial The announcement that the secrets of the Dreadnought had been stolen was made in Bow St. police court here at the end of a three day hearing . 
+A full trial was ordered for : Two British civil servants , Miss Ethel Gee , 46 , and her newly devoted friend , Harry Houghton , 55 , and divorced . 
+==========
+crucial encounter One of the initial questions put to President Kennedy at his first news conference last January was about his attitude toward a meeting with Premier Khrushchev . 
+Mr. Kennedy replied : `` I 'm hopeful that from more traditional exchanges we can perhaps find greater common ground '' . 
+The President knew that a confrontation with Mr. Khrushchev sooner or later probably was inevitable and even desirable . 
+But he was convinced that the realities of power -- military , economic and ideological -- were the decisive factors in the struggle with the Communists and that these could not be talked away at a heads of government meeting . 
+He wanted to buy time to strengthen the U.S. and its allies and to define and begin to implement his foreign policy . 
+Last Friday the White House announced : President Kennedy will meet with Soviet Premier Nikita S. Khrushchev in Vienna June 3 and 4 . 
+The announcement came after a period of sharp deterioration in East-West relations . 
+==========
+Temperature of the wash and rinse waters is maintained at 85 - 90-degrees-F ( 29 - 32-degrees-C ) . 
+The top rolls are loaded with 40 lbs .. Sixty lbs. loading is possible but 40 lbs. is adequate . 
+The suds box drain is arranged at the start to deliver into the raised main drain pipe ( thus returning suds to soap box ) and the machine is started . 
+The 160-ml. bath containing the calculated amount of detergent is applied slowly and directly to the running specimen . 
+Washing is continued for 30 minutes or for a period of time sufficient to allow 100 nips or passes through the squeeze rolls . 
+At the conclusion of the washing , 8 liters of water at 90-degrees-F ( 32 \* 0C. ) are automatically metered from the rinse reservoir to the washing tubs , 4 liters to each tub . 
+This operation requires from 10 to 12 minutes . 
+During the rinsing operation the volume in the tubs gradually increases until overflow from the main drain begins . 
+At this point the drains are readjusted so that the suds box drain will discharge directly into the waste line and the main tub drain is set at the 2-12 mark on the drain gauge . 
+When all of the rinse water has passed from the reservoir to the tubs the main drains are lowered to permit complete draining of the tubs . 
+The run is complete when all the water has drained off into the waste line . 
+==========
+A . 
+Reasons for selecting mail questionnaire method There were two methods that could have been used for conducting the study within the resources available : ( 1 ) interviews in depth with a few selected companies , and ( 2 ) the more limited interrogation of a large number of companies by means of a mail questionnaire . 
+While the method of interviewing a small number of companies was appealing because of the opportunity it might have furnished to probe fully the reasons and circumstances of a company 's practices and opinions , it also involved the risk of paying undue attention to the unique and peculiar problems of just a few individual companies . 
+==========

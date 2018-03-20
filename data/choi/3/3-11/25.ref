@@ -1,0 +1,92 @@
+==========
+The following items may be specified in actual or symbolic form in the operands of those instructions which refer to the particular items : channel , unit , combined channel and unit , combined arm and file , unit record synchronizers , inquiry synchronizers , and alteration switches . 
+The declarative operation EQU is used to equate symbolic names to item numbers ( see page 85 ) . 
+Continuation cards Certain Autocoder statements make provision for more parameters than may be contained in the operand ( columns 21 - 75 ) of a single line on the Autocoder coding sheet . 
+When this is the case , the appropriate section of this manual will indicate that `` Continuation Cards '' may be used . 
+Thus , when specifically permitted , the operand of a given line on the Autocoder coding sheet may be continued in the operand of from one to four additional lines which immediately follow . 
+The label and operation columns must be blank and the continuation of the operand must begin in column 21 ; ; i.e. , it must be left-justified in the operand column of the coding sheet . 
+The operand need not extend across the entire operand column of either the header card or continuation cards but may end with the comma following any parameter . 
+Remarks may appear to the right of the last parameter on each card provided they are separated from the operand by at least two blank spaces . 
+Illustrations of the use of continuation cards are included throughout the examples illustrating the various statements . 
+If a continuation card follows a statement that does not permit continuation cards , the compiler will generate a NOP and issue an error message . 
+==========
+seven months , the Garden of the Gods Club will have its gala summer opening Saturday , June 3 . 
+Music for dancing will be furnished by Allen Uhles and his orchestra , who will play each Saturday during June . 
+Members and guests will be in for an added surprise with the new wing containing 40 rooms and suites , each with its own private patio . 
+Gene Marshall , genial manager of the club , has announced that the Garden of the Gods will open to members Thursday , June 1 . 
+Beginning July 4 , there will be an orchestra playing nightly except Sunday and Monday for the summer season . 
+Mrs. J. Edward Hackstaff and Mrs. Paul Luette are planning a luncheon next week in honor of Mrs. J. Clinton Bowman , who celebrates her birthday on Tuesday . 
+Mr. and Mrs. Jerry Chase announce the birth of a daughter , Sheila , on Wednesday in Mercy Hospital . 
+Grandparents are Mr. and Mrs. Robert L. Chase and Mr. and Mrs. Guy Mullenax of Kittredge . 
+Mrs. Chase is the former Miss Mary Mullenax . 
+Back to w. coast Mrs. McIntosh Buell will leave Sunday to return to her home in Santa Barbara , Calif. , after spending a week in her Polo Grounds home . 
+Mrs. John C. Vroman Jr. of Manzanola is spending several days in her Sherman Plaza apartment . 
+==========
+The many linguistic techniques for reducing the amount of dictionary information that have been proposed all organize the dictionary 's contents around prefixes , stems , suffixes , etc . 
+. 
+A significant reduction in the voume of store information is thus realized , especially for a highly inflected language such as Russian . 
+For English the reduction in size is less striking . 
+This approach requires that : ( 1 ) each text word be separated into smaller elements to establish a correspondence between the occurrence and dictionary entries , and ( 2 ) the information retrieved from several entries in the dictionary be synthesized into a description of the particular word . 
+The logical scheme used to accomplish the former influences the placement of information in the dictionary file . 
+Implementation of the latter requires storage of information needed only for synthesis . 
+We suggest the application of certain data-processing techniques as a solution to the problem . 
+But first , we must define two terms so that their meaning will be clearly understood : form -- any unique sequence of alphabetic characters that can appear in a language preceded and followed by a space ; ; occurrence -- an instance of a form in text . 
+We propose a method for selecting only dictionary information required by the text being translated and a means for passing the information directly to the occurrences in text . 
+==========
+Asilomar , March 26 Vast spraying programs conducted by `` technicians with narrow training and little wisdom '' are endangering crops and wildlife , Carl W. Buchheister , president of the National Audubon Society , said today . 
+`` It is like handing a loaded automatic to an 8-year-old and telling him to run out and play '' , he commented . 
+Buchheister told delegates to the West Coast Audubon Convention that aerial spraying in Louisiana failed to destroy its target , the fire ant . 
+`` But it did destroy the natural controls of a borer and released a new plague that wrecked a sugar cane crop '' , he said . 
+The conservation leader said other mistakes in spraying had caused serious damage in Ohio and Wyoming . 
+==========
+the hottest thing that has hit the Dallas investment community in years was the Morton Foods stock issue , which was sold to the public during the past week . 
+For many reasons , the demand to buy shares in the Dallas-headquartered company was tremendous . 
+It was not a case of the investment bankers having to sell the stock ; ; it was more one of allotting a few shares to a number of customers and explaining to others why they had no more to sell . 
+Investors who wanted 100 shares in many cases ended up with 25 , and customers who had put in a bid to buy 400 shares found themselves with 100 and counted themselves lucky to get that many . 
+In fact , very few customers , anywhere in the nation , were able to get more than 100 shares . 
+==========
+An analysis of the election falls naturally in four parts . 
+First is the long and still somewhat obscure process of preparation , planning and discussion . 
+Preparation began slightly more than a year after independence with the first steps to organize rural communes . 
+All political interests supported electoral planning , although there are some signs that the inherent uncertainties of a popular judgment led to some procrastination . 
+The second major aspect of the election is the actual procedure of registration , nomination and voting . 
+Considerable technical skill was used and the administration of the elections was generally above reproach . 
+However , the regionally differentiated results , which appear below in tables , are interesting evidence of the problems of developing self-government under even the most favorable circumstances . 
+A third aspect , and probably the one open to most controversy , is the results of the election . 
+The electoral procedure prevented the ready identification of party affiliation , but all vitally interested parties , including the government itself , were busily engaged in determining the party identifications of all successful candidates the month following the elections . 
+==========
+A band viscometer is shown in Figure 2 . 
+It consists of two blocks with flat surfaces held apart by shims . 
+There is a small well in the top in which the fluid or paste to be tested is placed . 
+A tape of cellulose acetate is pulled between the blocks and the tape pulls the fluid or paste with it between the parallel faces of the blocks . 
+In normal use weights are hung on the end of the tape and allowed to pull the tape and the material to be tested between the blocks . 
+After it has reached terminal velocity , the time for the tape to travel a known distance is recorded . 
+==========
+Every library borrower , or at least those whose taste goes beyond the five-cent fiction rentals , knows what it is to hear the librarian say apologetically , `` I 'm sorry , but we do n't have that book . 
+There would n't be much demand for it , I 'm afraid '' . 
+Behind this reply , and its many variations , is the ever-present budget problem all libraries must face , from the largest to the smallest . 
+What to buy out of the year 's grist of nearly 15,000 book titles ? ? 
+What to buy for adult and child readers , for lovers of fiction and nonfiction , for a clientele whose wants are incredibly diversified , when your budget is pitifully small ? ? 
+Most library budgets are hopelessly inadequate . 
+A startlingly high percentage do not exceed $ 500 annually , which includes the librarian 's salary , and not even the New York Public has enough money to meet its needs -- this in the world 's richest city . 
+The plight of a small community library is proportionately worse . 
+==========
+A . 
+Reasons for selecting mail questionnaire method There were two methods that could have been used for conducting the study within the resources available : ( 1 ) interviews in depth with a few selected companies , and ( 2 ) the more limited interrogation of a large number of companies by means of a mail questionnaire . 
+While the method of interviewing a small number of companies was appealing because of the opportunity it might have furnished to probe fully the reasons and circumstances of a company 's practices and opinions , it also involved the risk of paying undue attention to the unique and peculiar problems of just a few individual companies . 
+As a result , it was decided that a mail questionnaire sent to a large number of companies would be more effective in determining the general practices and opinions of small firms and in highlighting some of the fundamental and recurring problems of defense procurement that concern both industry and government . 
+It was also hoped that responses to a mail questionnaire would suggest fruitful inquiries that might be made in subsequent studies of a more detailed nature . 
+It is recognized that a mail questionnaire has inherent limitations . 
+There is the danger that the questions will mean different things to different respondents . 
+Simple `` yes '' or `` no '' answers do not reveal the different shades of opinion that the various respondents may have . 
+A respondent may want to make alternative answers because he does not know the precise circumstances assumed in the question . 
+There is also the problem of the respondent 's frame of reference . 
+==========
+The Masters golf tournament proved last Monday what it can do to the strongest men and the staunchest nerves . 
+Gary Player , the small , trim South African , was the eventual winner , but in all his 25 years he never spent a more harrowing afternoon as he waited for the victory to drop in his lap . 
+Arnold Palmer , the defending champion , lost his title on the 72nd hole after a few minutes of misfortune that left even his fellow pros gaping in disbelief . 
+`` Just when you think you have it licked , this golf course can get up and bite you '' , Player had said one afternoon midway through the tournament . 
+And that is just what happened on the last few holes . 
+The Augusta National Golf Club Course got up and bit both Player and Palmer . 
+Player was the first to feel its teeth . 
+==========
