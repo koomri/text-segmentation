@@ -43,7 +43,7 @@ Example:
 ## How to create a new wikipedia dataset:
     python wiki_processor.py --input <input> --temp <temp_files_folder> --output <output_folder> --train <ratio> --test <ratio>
 
-Input is full path to wikipedia dump, temp is path to temporal files folder, and ouput is path to created wikipedia dataset.
+Input is full path to wikipedia dump, temp is path to temporal files folder, and output is path to created wikipedia dataset.
 
 Wikipedia dump can be downloaded from following url:
 
