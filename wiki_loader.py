@@ -28,7 +28,7 @@ def cache_wiki_filenames(wiki_folder):
     files = Path(wiki_folder).glob('*/*/*/*')
     cache_file_path = get_cache_path(wiki_folder)
 
-    with cache_file_path.open('w') as f:
+    with cache_file_path.open('w+') as f:
         for file in files:
             f.write(unicode(file) + u'\n')
 
