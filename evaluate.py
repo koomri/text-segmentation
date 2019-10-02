@@ -22,7 +22,8 @@ def load_model(model_path=None, is_cuda=None):
 def prepare_tensor(sentences):
     tensored_data = []
     for sentence in sentences:
-        tensored_data.append(utils.maybe_cuda(torch.FloatTensor(np.concatenate(sentence))))
+        if len(sentence) > 0:
+            tensored_data.append(utils.maybe_cuda(torch.FloatTensor(np.concatenate(sentence))))
 
     return tensored_data
 
