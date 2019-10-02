@@ -35,14 +35,3 @@ def text_to_word2vec(sentences, word2vec):
         new_text.append([word_model(w, word2vec) for w in words])
 
     return new_text
-
-
-def predict_cutoffs(sentences, model, word2vec):
-    word2vec_sentences = text_to_word2vec(sentences, word2vec)
-    tensored_data = prepare_tensor(word2vec_sentences)
-    batched_tensored_data = []
-    batched_tensored_data.append(tensored_data)
-    output = model(batched_tensored_data)
-    values, argmax = output.max(1)
-    argmax = argmax.data.cpu().numpy()
-    return argmax
